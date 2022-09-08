@@ -126,7 +126,7 @@ If the checks don't appear or if the checks are stuck in progress, there's a few
 
 1. Update the code in the `ci` branch to get the test to pass. You need to look something like this:
    ```markdown
-   _underscore_
+   underscore
    ```
 1. _Commit changes_.
 1. Wait about 20 seconds then refresh this page for the next step.
